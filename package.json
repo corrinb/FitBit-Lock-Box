@@ -9,6 +9,7 @@
   "author": "corrin",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "simple-oauth2": "^1.5.0"
   }
 }
